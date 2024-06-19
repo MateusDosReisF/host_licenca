@@ -1,0 +1,11 @@
+[
+    {
+      "chave": "123",
+      "data_expiracao": "2024-10-20"
+    },
+    {
+        "chave": "12",
+        "data_expiracao": "2024-12-31"
+      }
+
+]
